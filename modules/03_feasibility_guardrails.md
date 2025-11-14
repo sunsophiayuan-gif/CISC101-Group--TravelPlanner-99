@@ -1,3 +1,6 @@
+Change Log (2025-11-14):
+- Added an extra weather rule for extreme heat and severe conditions in Module 3.
+
 ### **Module 3 — Feasibility & Guardrails**
 
 Apply these **if/else** checks to make sure plans are realistic and adapt to edge cases:
@@ -17,7 +20,7 @@ Apply these **if/else** checks to make sure plans are realistic and adapt to edg
 4. **Weather Swap**
    
    - If rain or cold season likely → make sure at least one indoor activity replaces outdoor ones.
-
+   - If extreme heat, storm, or poor air-quality warnings are present → swap long outdoor segments for shorter or indoor options and reduce time spent outside.
 5. **Time Overrun**
    
    - If total planned time > available hours → shorten lunch or pick a nearer stop.
