@@ -1,4 +1,9 @@
 ### **Module 2 — Plan Builder (Options → Days)**
+Change Log (03_guardrails-debug-v2)
+
+Refined Module 03 based on AI critique: 
+  added indoor backup 
+  add format check.
 
 Create a short list of candidate activities (e.g., attractions, restaurants, parks).  
 Each activity includes type, estimated duration, cost range, and distance.
